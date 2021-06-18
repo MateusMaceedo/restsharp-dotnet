@@ -3,3 +3,5 @@
  <br>
  RestShap
 </h1>
+
+- [x] - [Documentação Oficial](https://www.nuget.org/packages/RestSharp)
